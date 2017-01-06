@@ -1,0 +1,17 @@
+{
+    "name": "newformqwe/customcheckform",
+    "description": "Test Form",
+    "keywords": ["yii2", "extension", "widget", "input", "file", "form", "upload", "jquery", "plugin"],
+    "homepage": "https://github.com/sunil349/testmy/",
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Test Person",
+            "email": "asd",
+            "homepage": "http://www.test.com/"
+        }
+    ],
+    
+    }
+}
